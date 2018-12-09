@@ -1,0 +1,24 @@
+{
+  "name": "ddbook08",
+  "authors": [
+    "nydegang <149098880@qq.com>"
+  ],
+  "description": "我的第一个项目，好哈皮",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.1.3",
+    "jquery": "3.3.1",
+    "bootswatch": "4.1.3",
+    "bootstrap-datepicker": "1.8.0",
+    "jquery.cookie": "1.4.1"
+  }
+}
